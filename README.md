@@ -14,7 +14,7 @@ A simple problem recommendation system for CodeChef.
 - Now create a virtual environment 
   - `$ virtualenv venv --python=python3.6` you can use any name insted of **venv**
 
-- Active your virtual environment 
+- Activate your virtual environment 
   - `$ source venv/bin/activate`
 
 - Install other requirements given in requirements.txt file
